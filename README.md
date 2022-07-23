@@ -1,10 +1,10 @@
 # steam_ui
 
 A new Flutter project.
-<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo3.jpeg">
-<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo2.jpeg">
-<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo1.jpeg">
-
+<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo3.jpeg"><br>
+<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo2.jpeg"><br>
+<img style="width:300px" src="https://raw.githubusercontent.com/utkayfirat/Flutter-Steam-UI-Clone/main/showcase/demo1.jpeg"><br>
+<br>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
